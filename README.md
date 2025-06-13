@@ -1,4 +1,5 @@
 # Ambient Light & Temperature Logger - Arduino
+#### Author: Bocaletto Luca
 
 **Files**  
 - `README.md`  
